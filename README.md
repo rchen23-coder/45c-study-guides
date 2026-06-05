@@ -18,3 +18,7 @@ A set of Markdown study guides covering the ICS 45C (C++ Programming) lecture to
 | [08](08-ranges-views-smart-pointers-and-custom-iterators.md) | Ranges, Views, Smart Pointers, Custom Iterators | HW9 |
 
 Each guide has a numbered TOC, comparison tables, heavily commented code, "Used in HWx" callouts, a patterns quick-reference, and a "Key Rules to Remember" summary at the end.
+
+## Practice Quizzes
+
+One practice quiz per guide, modeled on the weekly reading quizzes (mix of multiple-choice and SELECT ALL, code-trace problems, answer keys with explanations). See [practice-quizzes/](practice-quizzes/README.md).
